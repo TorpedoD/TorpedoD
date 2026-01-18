@@ -25,11 +25,11 @@
 🔭 Working on a web development  <br>🌱 Learning more about blockchain and developer tools  <br>🧪 Enjoy experimenting, iterating, and seeing what sticks  <br>⚡ Fun fact: I speak three languages — English, Python, and a bit of `010111` 
 
 </td>
-<td width="60%" valign="top">
+<td width="60%" valign="top" align="center">
 
 ### Tech Stack
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=aiscript,ts,figma,react,js,cpp,bash,linux,notion,npm&theme=dark&perline=3"/>
 </p>
 
