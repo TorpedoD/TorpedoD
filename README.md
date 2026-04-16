@@ -22,7 +22,7 @@
 <td width="60%" valign="top">
 
 ### About Me:
-🔭 Working on a web development  <br>🌱 Learning more about blockchain and developer tools  <br>🧪 Enjoy experimenting, iterating, and seeing what sticks  <br>⚡ Fun fact: I speak three languages — English, Python, and a bit of `010111` 
+🔭 Working on a web development  <br>🌱 Learning more about AI Training and Cybersecurity <br>🧪 Enjoy experimenting, iterating, and seeing what sticks 
 
 </td>
 <td width="60%" valign="top" align="center">
