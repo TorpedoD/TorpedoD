@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TorpedoD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/damiantywong) 
 [![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/damiantywong) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damiantywong@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damiantywork@gmail.com) 
 
 <br/>
 
