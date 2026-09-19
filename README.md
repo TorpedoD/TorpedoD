@@ -17,14 +17,14 @@
 
 <p align="center">
   <a href="https://github.com/TorpedoD/claude-researcher">
-    <img width="49%" src="./assets/github/claude-researcher.svg" alt="Claude Researcher repository card" />
+    <img width="64%" src="./assets/github/claude-researcher.svg" alt="Claude Researcher repository card" />
   </a>
   <a href="https://github.com/TorpedoD/claude-council">
-    <img width="49%" src="./assets/github/claude-council.svg" alt="Claude Council repository card" />
+    <img width="64%" src="./assets/github/claude-council.svg" alt="Claude Council repository card" />
   </a>
   <br />
   <a href="https://github.com/TorpedoD/claude-sentinel">
-    <img width="49%" src="./assets/github/claude-sentinel.svg" alt="Claude Sentinel repository card" />
+    <img width="64%" src="./assets/github/claude-sentinel.svg" alt="Claude Sentinel repository card" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
       srcset="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake.svg"
     />
     <img
-      width="100%"
+      width="110%"
       src="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake.svg"
       alt="GitHub contribution grid snake animation"
     />
