@@ -1,0 +1,65 @@
+name: Update repository cards
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/repository-cards.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repository-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Prepare asset directory
+        run: mkdir -p assets/github
+
+      - name: Generate Claude Researcher card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=TorpedoD&repo=claude-researcher&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3BAEA0&icon_color=8FE3CF&text_color=C9D1D9&description_lines_count=3"
+          path: assets/github/claude-researcher.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate Claude Council card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=TorpedoD&repo=claude-council&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3BAEA0&icon_color=8FE3CF&text_color=C9D1D9&description_lines_count=3"
+          path: assets/github/claude-council.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate Claude Sentinel card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: "username=TorpedoD&repo=claude-sentinel&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3BAEA0&icon_color=8FE3CF&text_color=C9D1D9&description_lines_count=3"
+          path: assets/github/claude-sentinel.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github/*.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh repository cards"
+          git push
