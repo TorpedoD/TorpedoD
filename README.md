@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,%2040:1F6F78,%2075:3BAEA0,%20100:8FE3CF&fontAlignY=100"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,%2040:1F6F78,%2075:3BAEA0,%20100:8FE3CF&section=header" alt="Teal gradient banner" />
 
 <div align="center">
 
@@ -11,66 +11,47 @@
 [![X](https://img.shields.io/badge/Twitter-black.svg?logo=X&logoColor=white)](https://x.com/damiantywong) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damiantywork@gmail.com) 
 
-<br/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Creating+tools+from+ideas;Learning+through+building;Contributing+through+open-source" alt="Typing SVG" />
-
 </div>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
-
-### About Me:
-🔭 Working on a web development  <br>🌱 Learning more about AI Training and Cybersecurity <br>🧪 Enjoy experimenting, iterating, and seeing what sticks 
-
-</td>
-<td width="60%" valign="top" align="center">
-
-### Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=aiscript,ts,figma,react,js,cpp,bash,linux,notion,npm&theme=dark&perline=3"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-### Stats
+## Featured Projects
 
 <p align="center">
-<a href="https://github.com/TorpedoD">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TorpedoD&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00B894&text_color=c9d1d9&include_all_commits=true&count_private=true" width="57.5%"/>
-</a>
-<a href="https://github.com/TorpedoD">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TorpedoD&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8" width="42%"/>
-</a>
+  <a href="https://github.com/TorpedoD/claude-researcher">
+    <img width="49%" src="./assets/github/claude-researcher.svg" alt="Claude Researcher repository card" />
+  </a>
+  <a href="https://github.com/TorpedoD/claude-council">
+    <img width="49%" src="./assets/github/claude-council.svg" alt="Claude Council repository card" />
+  </a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TorpedoD&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D4AA&line=00B894&point=ffffff&area=true&area_color=00D4AA" width="100%"/>
+  <a href="https://github.com/TorpedoD/claude-sentinel">
+    <img width="49%" src="./assets/github/claude-sentinel.svg" alt="Claude Sentinel repository card" />
+  </a>
 </p>
 
-<!-- 
+## Technologies
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TorpedoD&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github,linux,nextjs,ts,html,css,githubactions&theme=dark&perline=10" alt="Python, Bash, Git, GitHub, Linux, Next.js, TypeScript, HTML, CSS, and GitHub Actions" />
+</p>
 
+## GitHub Overview
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TorpedoD&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Damian Wong's GitHub profile summary" />
+</p>
 
+## Contributions
 
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+  </picture>
+</p>
 
-<div align="center">
-<br/>
-
-*“Commit your work to the Lord, and your plans will be established.”
-— Proverbs 16:3*
 
 </div>
 
