@@ -34,7 +34,7 @@ jobs:
           card: pin
           options: "username=TorpedoD&repo=claude-researcher&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3BAEA0&icon_color=8FE3CF&text_color=C9D1D9&description_lines_count=3"
           path: assets/github/claude-researcher.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.README_SUMMARY_WORKFLOW }}
           fail_on_error: true
 
       - name: Generate Claude Council card
@@ -43,7 +43,7 @@ jobs:
           card: pin
           options: "username=TorpedoD&repo=claude-council&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3BAEA0&icon_color=8FE3CF&text_color=C9D1D9&description_lines_count=3"
           path: assets/github/claude-council.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.README_SUMMARY_WORKFLOW }}
           fail_on_error: true
 
       - name: Generate Claude Sentinel card
@@ -52,7 +52,7 @@ jobs:
           card: pin
           options: "username=TorpedoD&repo=claude-sentinel&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3BAEA0&icon_color=8FE3CF&text_color=C9D1D9&description_lines_count=3"
           path: assets/github/claude-sentinel.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.README_SUMMARY_WORKFLOW }}
           fail_on_error: true
 
       - name: Commit updated cards
