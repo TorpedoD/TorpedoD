@@ -23,7 +23,7 @@ jobs:
       - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GH_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.README_SUMMARY_WORKFLOW }}
         with:
           USERNAME: TorpedoD
           BRANCH_NAME: main
