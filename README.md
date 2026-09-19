@@ -17,42 +17,58 @@
 
 <p align="center">
   <a href="https://github.com/TorpedoD/claude-researcher">
-    <img width="49%" src="./assets/github/claude-researcher.svg" alt="Claude Researcher repository card" />
+    <img width="47%" src="./assets/github/claude-researcher.svg" alt="Claude Researcher repository card" />
   </a>
+  &nbsp;
   <a href="https://github.com/TorpedoD/claude-council">
-    <img width="49%" src="./assets/github/claude-council.svg" alt="Claude Council repository card" />
+    <img width="47%" src="./assets/github/claude-council.svg" alt="Claude Council repository card" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TorpedoD/claude-sentinel">
-    <img width="49%" src="./assets/github/claude-sentinel.svg" alt="Claude Sentinel repository card" />
+    <img width="47%" src="./assets/github/claude-sentinel.svg" alt="Claude Sentinel repository card" />
   </a>
 </p>
 
-## Technologies
+## Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,git,github,linux,nextjs,ts,html,css,githubactions&theme=dark&perline=10" alt="Python, Bash, Git, GitHub, Linux, Next.js, TypeScript, HTML, CSS, and GitHub Actions" />
+  <img
+    src="https://skillicons.dev/icons?i=python,bash,git,github,linux,nextjs,ts,html,css&theme=dark&perline=9"
+    alt="Python, Bash, Git, GitHub, Linux, Next.js, TypeScript, HTML, and CSS"
+  />
 </p>
 
 ## GitHub Overview
 
 <p align="center">
-  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Damian Wong's GitHub profile summary" />
+  <img
+    width="96%"
+    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="Damian Wong's GitHub profile summary"
+  />
 </p>
 
 ## Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      width="96%"
+      src="https://raw.githubusercontent.com/TorpedoD/TorpedoD/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution grid snake animation"
+    />
   </picture>
 </p>
 
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,%2040:1F6F78,%2075:3BAEA0,%20100:8FE3CF&fontAlignY=100&textBg=false&reversal=true&section=footer"/>
