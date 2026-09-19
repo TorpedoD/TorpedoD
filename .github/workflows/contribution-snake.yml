@@ -36,4 +36,4 @@ jobs:
           build_dir: dist
           target_branch: output
         env:
-          GH_TOKEN: ${{ secrets.README_SUMMARY_WORKFLOW }}
+          GITHUB_TOKEN: ${{ secrets.README_SUMMARY_WORKFLOW }}
